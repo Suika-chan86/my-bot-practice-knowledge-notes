@@ -55,3 +55,6 @@
 ## 使用方式
 - 从头到尾阅读可以获得完整知识框架。
 - 遇到具体问题时，直接跳转到 `04-operations` 查阅速查表。
+
+## 关联页面
+- [MCP Server](https://github.com/Suika-chan86/mcp-notes)
